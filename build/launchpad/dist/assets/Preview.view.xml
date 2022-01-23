@@ -10,7 +10,7 @@
     core:require="{ sapMLib: 'sap/m/library' }">
     <f:ShellBar
             title="Application Development"
-            secondTitle="Project Preview"
+            secondTitle="Application Overview"
             homeIcon="assets/SAP_R_grad.svg">
     </f:ShellBar>
     <l:BlockLayout>
@@ -101,7 +101,7 @@
                 </table:Table>
             </l:BlockLayoutCell>
         </l:BlockLayoutRow>
-        <l:BlockLayoutRow class="blockLayoutContentRow" visible="false">
+        <l:BlockLayoutRow class="blockLayoutContentRow" visible="true">
             <l:BlockLayoutCell id="workflow" width='2'>
                 <Title titleStyle="H3" text="Workflow"/>
                 <core:HTML 

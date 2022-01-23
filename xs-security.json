@@ -1,0 +1,21 @@
+{
+  "xsappname": "BusinessAppRB2",
+  "tenant-mode": "dedicated",
+  "scopes": [
+    {
+      "name": "$XSAPPNAME.BusinessAppRB2Manager",
+      "description": "BusinessAppRB2Manager"
+    }
+  ],
+  "attributes": [],
+  "role-templates": [
+    {
+      "name": "BusinessAppRB2Manager",
+      "description": "generated",
+      "scope-references": [
+        "$XSAPPNAME.BusinessAppRB2Manager"
+      ],
+      "attribute-references": []
+    }
+  ]
+}
