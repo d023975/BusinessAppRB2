@@ -118,3 +118,8 @@ https://help.sap.com/products/SAP%20Business%20Application%20Studio/9d1db9835307
 
 
 
+HTML5 Repo deployment:
+- https://help.sap.com/products/BTP/65de2977205c403bbc107264b8eccf4b/07c679672e5f423e9dc631fc85b51da3.html
+
+UI5 Tooling
+- https://sap.github.io/ui5-tooling/pages/CLI/#ui5-build
