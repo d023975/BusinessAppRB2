@@ -30,3 +30,5 @@ mta_archives/
 # .vscode
 # .idea
 dist/
+dist-zip/
+ui-deployer/
